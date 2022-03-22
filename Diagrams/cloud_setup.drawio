@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T10:47:03.798Z" agent="5.0 (X11)" etag="HTlSjgk6kgXwN7ie_2ch" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T10:58:43.319Z" agent="5.0 (X11)" etag="kscb9Cjw-iER9nzUmDop" version="16.6.4" type="github">
   <diagram id="FiLudgv4UGmtYQNG53DB" name="Page-1">
     <mxGraphModel dx="1422" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
             <mxPoint x="800" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fCbCj9mszyti0dIkxIe6-4" value="Cloud Setup" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=28;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="320" height="40" as="geometry" />
+        <mxCell id="fCbCj9mszyti0dIkxIe6-4" value="Cloud Setup for Learning Environment" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=28;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fCbCj9mszyti0dIkxIe6-5" value="AWS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="50" y="120" width="120" height="30" as="geometry" />
