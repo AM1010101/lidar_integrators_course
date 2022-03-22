@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T11:56:46.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8YcCXDpNIn_uPo8pbdA8" version="16.6.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-22T11:43:09.190Z" agent="5.0 (X11)" etag="Vv3Q9quMHrGvqGMuspuV" version="16.6.4" type="github" pages="8">
   <diagram id="i4b2GIvNFPZ8uAqkHKhB" name="Day_1">
-    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8uf51YdMV8shFqCPs5ik-41" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Framework&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBBEBB;strokeColor=none;arcSize=0;align=right;" parent="1" vertex="1">
           <mxGeometry x="20" y="200" width="780" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="jeZHhzfTOr5woBPDqDls-1" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+        <mxCell id="jeZHhzfTOr5woBPDqDls-1" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="1" vertex="1">
           <mxGeometry x="30" y="230" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uf51YdMV8shFqCPs5ik-42" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Process&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=none;arcSize=0;align=right;gradientColor=none;" parent="1" vertex="1">
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="8uf51YdMV8shFqCPs5ik-39" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Input PointCloud Data&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;arcSize=0;align=right;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="780" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="s5DjrgePxkkeZuHsK21j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8uf51YdMV8shFqCPs5ik-1" target="8uf51YdMV8shFqCPs5ik-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8uf51YdMV8shFqCPs5ik-1" value="Gazebo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
@@ -209,22 +212,22 @@
         <mxCell id="8uf51YdMV8shFqCPs5ik-80" value="&amp;nbsp;&amp;nbsp; LUNCH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="940" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-1" value="LiDAR_Sensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-1" value="LiDAR_Sensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-2" value="Real_World" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-2" value="Real_World" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-3" value="Open3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-3" value="Open3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-4" value="PointNet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-4" value="PointNet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="200" y="390" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-5" value="Filtering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HBmHtBkL_J9Jyxp98ZF8-5" value="Filtering" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0W9aW4EAtPlJCcfS-Uuj-1" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="0W9aW4EAtPlJCcfS-Uuj-1" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="480" y="320" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -432,14 +435,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7iKuwGhI_XB_ejaw6C9u" name="1.1_Linux_Python">
-    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7kSWusJikNgaYiSeJsim-0" />
         <mxCell id="7kSWusJikNgaYiSeJsim-1" parent="7kSWusJikNgaYiSeJsim-0" />
         <mxCell id="UeSPv5KlDwazfsDjhE0S-1" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Framework&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBBEBB;strokeColor=none;arcSize=0;align=right;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="200" width="780" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FfSrSPqguQU5fDHG0_-i-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="7kSWusJikNgaYiSeJsim-1">
+        <mxCell id="FfSrSPqguQU5fDHG0_-i-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="30" y="230" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UeSPv5KlDwazfsDjhE0S-0" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Process&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=none;arcSize=0;align=right;gradientColor=none;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
@@ -627,14 +630,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L6UDC8fnb3Be1GtFYhDQ" name="1.2_ROS">
-    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-0" />
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-1" parent="J9mkaBKEq7xT8ixeh_O_-0" />
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-3" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Framework&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBBEBB;strokeColor=none;arcSize=0;align=right;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="20" y="200" width="780" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rXhMLPP_2f7hIz_t4VRn-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="J9mkaBKEq7xT8ixeh_O_-1">
+        <mxCell id="rXhMLPP_2f7hIz_t4VRn-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="30" y="230" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-2" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Process&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=none;arcSize=0;align=right;gradientColor=none;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
@@ -822,14 +825,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9bVdkPfa6usCf1rkUAir" name="1.3_PointCloud_Files">
-    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4YQgjiPVblWJCsrGzRVQ-0" />
         <mxCell id="4YQgjiPVblWJCsrGzRVQ-1" parent="4YQgjiPVblWJCsrGzRVQ-0" />
         <mxCell id="4YQgjiPVblWJCsrGzRVQ-3" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Framework&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBBEBB;strokeColor=none;arcSize=0;align=right;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="20" y="200" width="780" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="jQTTBZ4Hy3vGuIqQFhRK-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="4YQgjiPVblWJCsrGzRVQ-1">
+        <mxCell id="jQTTBZ4Hy3vGuIqQFhRK-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="30" y="230" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4YQgjiPVblWJCsrGzRVQ-2" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Process&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=none;arcSize=0;align=right;gradientColor=none;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
@@ -992,13 +995,13 @@
         <mxCell id="Je_H-Fq9UtKYgdRXmB1_-1" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;Quiz on Pointcloud Files&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Visualise files and scenes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Convert between filestypes&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ohtLr2exUeDOasbmNJmP-0" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="4YQgjiPVblWJCsrGzRVQ-1">
+        <mxCell id="ohtLr2exUeDOasbmNJmP-0" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="20" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ohtLr2exUeDOasbmNJmP-1" value="Convert files between different types" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="4YQgjiPVblWJCsrGzRVQ-1">
+        <mxCell id="ohtLr2exUeDOasbmNJmP-1" value="Convert files between different types" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="140" y="880" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ohtLr2exUeDOasbmNJmP-2" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" vertex="1" parent="4YQgjiPVblWJCsrGzRVQ-1">
+        <mxCell id="ohtLr2exUeDOasbmNJmP-2" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="500" y="880" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -1404,14 +1407,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="clgivDCjoy6WqJRAnzap" name="1.6_Point_Cloud_Manipulation">
-    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Qwk8itgLuH_87v9c4H-A-0" />
         <mxCell id="Qwk8itgLuH_87v9c4H-A-1" parent="Qwk8itgLuH_87v9c4H-A-0" />
         <mxCell id="q-HwYT_mtrrfzeHJE0xE-1" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Framework&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBBEBB;strokeColor=none;arcSize=0;align=right;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="20" y="200" width="780" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="L6SX79q7i5G3RsfCFiH7-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="L6SX79q7i5G3RsfCFiH7-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="30" y="230" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q-HwYT_mtrrfzeHJE0xE-0" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Process&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=none;arcSize=0;align=right;gradientColor=none;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
@@ -1547,49 +1550,49 @@
         <mxCell id="q-HwYT_mtrrfzeHJE0xE-37" value="Tasks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="500" y="680" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-0" value="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-0" value="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="20" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-1" value="2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-1" value="2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="20" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-2" value="&lt;div&gt;Filtering&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-2" value="&lt;div&gt;Filtering&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-3" value="Remove points from a pointcloud&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-3" value="Remove points from a pointcloud&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="140" y="760" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-4" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-4" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="500" y="760" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-5" value="Manipulate Points with Python" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-5" value="Manipulate Points with Python" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="140" y="820" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-6" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-6" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="500" y="820" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Understand how to use ROS Bags to both record and replay data.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Understand how to use ROS Bags to both record and replay data.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-8" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;TODO&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-8" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;TODO&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Understand what Gazebo is and how we can use it. How to interface ROS with Gazebo. How we model a LiDAR in Gazebo.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Understand what Gazebo is and how we can use it. How to interface ROS with Gazebo. How we model a LiDAR in Gazebo.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AygDpR9cOSOR215x3S0u-10" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run and edit Gazebo World&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Add and modify LiDAR in Gazebo World&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Interact with LiDAR from ROS&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="AygDpR9cOSOR215x3S0u-10" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run and edit Gazebo World&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Add and modify LiDAR in Gazebo World&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Interact with LiDAR from ROS&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="803I9wCnx1u7b9jWr4uv-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Filter a Pointcloud ans understand the basics of manipulating it in Python&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="803I9wCnx1u7b9jWr4uv-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Filter a Pointcloud ans understand the basics of manipulating it in Python&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="803I9wCnx1u7b9jWr4uv-1" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Filter points with a radius or area&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="803I9wCnx1u7b9jWr4uv-1" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Filter points with a radius or area&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G71zVyFfrwx3R4UMen_N-0" value="Open3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="G71zVyFfrwx3R4UMen_N-0" value="Open3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="120" y="320" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G71zVyFfrwx3R4UMen_N-1" value="PointNet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" vertex="1" parent="Qwk8itgLuH_87v9c4H-A-1">
+        <mxCell id="G71zVyFfrwx3R4UMen_N-1" value="PointNet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#314354;fontColor=#CCCCCC;" parent="Qwk8itgLuH_87v9c4H-A-1" vertex="1">
           <mxGeometry x="200" y="390" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
