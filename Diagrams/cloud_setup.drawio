@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T10:39:26.071Z" agent="5.0 (X11)" version="16.6.4" etag="wz3_u7mZnLBOek5J22tl" type="github"><diagram id="FiLudgv4UGmtYQNG53DB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-22T10:47:03.798Z" agent="5.0 (X11)" etag="HTlSjgk6kgXwN7ie_2ch" version="16.6.4" type="github">
+  <diagram id="FiLudgv4UGmtYQNG53DB" name="Page-1">
+    <mxGraphModel dx="1422" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fCbCj9mszyti0dIkxIe6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="760" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="80" as="sourcePoint" />
+            <mxPoint x="800" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-4" value="Cloud Setup" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=28;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-5" value="AWS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-7" value="EC2 Linux Virtual Machine - Ubuntu Server" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="166" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-8" value="MATE Desktop Environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-9" value="ROS, Other Packages" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="196" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-10" value="Chrome RDP Script" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="760" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-12" value="User Machine" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-14" value="Chrome Browser" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.442;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fCbCj9mszyti0dIkxIe6-15" target="fCbCj9mszyti0dIkxIe6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-20" value="Signin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fCbCj9mszyti0dIkxIe6-17">
+          <mxGeometry x="-0.1776" y="-1" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-15" value="User Signs in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="600" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-16" value="Chrome Remote Desktop" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="fCbCj9mszyti0dIkxIe6-10" target="fCbCj9mszyti0dIkxIe6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fCbCj9mszyti0dIkxIe6-19" value="&lt;div&gt;User Streams&lt;/div&gt;&lt;div&gt;KVM&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="fCbCj9mszyti0dIkxIe6-18">
+          <mxGeometry x="-0.1525" y="-3" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
