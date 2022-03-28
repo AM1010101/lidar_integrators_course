@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T11:33:04.704Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="tl3jtn5JnjvXEkcdxpOm" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T11:36:29.660Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="SI0-o29PFH3n8RMkO5fS" version="17.2.1" type="github">
   <diagram id="mYQ9v2PQexZrmUGCqody" name="Page-1">
     <mxGraphModel dx="1414" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -176,16 +176,16 @@
           <mxGeometry x="885" y="240" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWNjnfaUYYlCfx7c9M3N-54" value="Robots" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="575" width="75" height="50" as="geometry" />
+          <mxGeometry x="85" y="630" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWNjnfaUYYlCfx7c9M3N-55" value="Clearpath" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="539" width="75" height="50" as="geometry" />
+          <mxGeometry x="10" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWNjnfaUYYlCfx7c9M3N-56" value="TurtleBot" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="600" width="75" height="50" as="geometry" />
+          <mxGeometry x="10" y="620" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWNjnfaUYYlCfx7c9M3N-57" value="Drones" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="315" width="75" height="50" as="geometry" />
+          <mxGeometry x="115" y="249" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MWNjnfaUYYlCfx7c9M3N-58" value="Linux" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="418" width="75" height="50" as="geometry" />
@@ -210,6 +210,18 @@
         </mxCell>
         <mxCell id="wjIrcY8TM1LImqf2KLqx-4" value="TensorFLow" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="500" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wjIrcY8TM1LImqf2KLqx-6" value="Summit XL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="660" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wjIrcY8TM1LImqf2KLqx-7" value="Parrot" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="204" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wjIrcY8TM1LImqf2KLqx-9" value="WAMV" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wjIrcY8TM1LImqf2KLqx-10" value="WAM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="730" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
