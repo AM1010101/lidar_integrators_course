@@ -1,0 +1,3 @@
+/home/am/code/lidarCourse/pcl/outlier_removal/CMakeFiles/rebuild_cache.dir
+/home/am/code/lidarCourse/pcl/outlier_removal/CMakeFiles/edit_cache.dir
+/home/am/code/lidarCourse/pcl/outlier_removal/CMakeFiles/statistical_removal.dir

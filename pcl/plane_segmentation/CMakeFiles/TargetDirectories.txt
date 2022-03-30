@@ -1,0 +1,3 @@
+/home/am/code/lidarCourse/pcl/plane_segmentation/CMakeFiles/rebuild_cache.dir
+/home/am/code/lidarCourse/pcl/plane_segmentation/CMakeFiles/edit_cache.dir
+/home/am/code/lidarCourse/pcl/plane_segmentation/CMakeFiles/planar_segmentation.dir

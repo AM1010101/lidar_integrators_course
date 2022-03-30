@@ -1,0 +1,3 @@
+/home/am/code/lidarCourse/pcl/passthrough_filter/CMakeFiles/rebuild_cache.dir
+/home/am/code/lidarCourse/pcl/passthrough_filter/CMakeFiles/edit_cache.dir
+/home/am/code/lidarCourse/pcl/passthrough_filter/CMakeFiles/passthrough.dir
