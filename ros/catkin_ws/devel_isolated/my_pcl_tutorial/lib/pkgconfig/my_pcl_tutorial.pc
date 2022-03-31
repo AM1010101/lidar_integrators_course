@@ -1,0 +1,8 @@
+prefix=/home/am/code/lidarCourse/ros/catkin_ws/devel_isolated/my_pcl_tutorial
+
+Name: my_pcl_tutorial
+Description: Description of my_pcl_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+my_pcl_tutorial
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/am/code/lidarCourse/ros/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/am/code/lidarCourse/ros/catkin_ws/install_isolated

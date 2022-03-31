@@ -8,13 +8,13 @@
 ros::Publisher pub;
 
 void 
-cloud_cb (const sensor_msgs::PointCloud2ConstPtr& input)
+cloud_cb (const sensor_msgs::PointCloud2ConstPtr& cloud_pcd)
 {
   // Create a container for the data.
   sensor_msgs::PointCloud2 output;
 
   // Do data processing here...
-  output = *input;
+  output = *cloud_pcd;
 
   // Publish the data.
   pub.publish (output);
@@ -28,7 +28,7 @@ main (int argc, char** argv)
   ros::NodeHandle nh;
 
   // Create a ROS subscriber for the input point cloud
-  ros::Subscriber sub = nh.subscribe ("input", 1, cloud_cb);
+  ros::Subscriber sub = nh.subscribe ("cloud_pcd", 1, cloud_cb);
 
   // Create a ROS publisher for the output point cloud
   pub = nh.advertise<sensor_msgs::PointCloud2> ("output", 1);

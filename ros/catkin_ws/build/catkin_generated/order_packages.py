@@ -2,4 +2,4 @@
 source_root_dir = '/home/am/code/lidarCourse/ros/catkin_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/am/code/lidarCourse/ros/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/am/code/lidarCourse/ros/catkin_ws/devel;/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/am/code/lidarCourse/ros/catkin_ws/devel_isolated/my_pcl_tutorial;/opt/ros/noetic'.split(';') if '/home/am/code/lidarCourse/ros/catkin_ws/devel_isolated/my_pcl_tutorial;/opt/ros/noetic' != '' else []
