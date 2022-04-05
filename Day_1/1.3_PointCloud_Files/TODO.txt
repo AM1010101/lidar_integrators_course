@@ -1,5 +1,0 @@
-https://github.com/methylDragon/pcl-ros-tutorial/blob/master/PCL%20Reference%20with%20ROS.md
-File Types
-.pcd
-.las 
-.laz
