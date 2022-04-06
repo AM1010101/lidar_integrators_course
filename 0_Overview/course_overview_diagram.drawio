@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T11:43:09.190Z" agent="5.0 (X11)" etag="Vv3Q9quMHrGvqGMuspuV" version="16.6.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-06T14:54:02.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="K-xk6R93KMRrB7eUVq8f" version="16.6.4" type="github" pages="8">
   <diagram id="i4b2GIvNFPZ8uAqkHKhB" name="Day_1">
-    <mxGraphModel dx="1140" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="8uf51YdMV8shFqCPs5ik-39" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Input PointCloud Data&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=none;arcSize=0;align=right;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="780" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="s5DjrgePxkkeZuHsK21j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8uf51YdMV8shFqCPs5ik-1" target="8uf51YdMV8shFqCPs5ik-3">
+        <mxCell id="s5DjrgePxkkeZuHsK21j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8uf51YdMV8shFqCPs5ik-1" target="8uf51YdMV8shFqCPs5ik-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8uf51YdMV8shFqCPs5ik-1" value="Gazebo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -241,7 +241,7 @@
         <mxCell id="liaxdnHP4bsJDzJQAd7m-1" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Framework&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBBEBB;strokeColor=none;arcSize=0;align=right;" parent="noMDyQk_eTensu_5yYvp-1" vertex="1">
           <mxGeometry x="20" y="200" width="780" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="e1idq5NepFMMjDnsuPwV-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="noMDyQk_eTensu_5yYvp-1">
+        <mxCell id="e1idq5NepFMMjDnsuPwV-0" value="LINUX&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" parent="noMDyQk_eTensu_5yYvp-1" vertex="1">
           <mxGeometry x="30" y="230" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="liaxdnHP4bsJDzJQAd7m-0" value="&lt;div style=&quot;font-size: 24px&quot; align=&quot;right&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#FFFFFF&quot;&gt;Process&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;strokeColor=none;arcSize=0;align=right;gradientColor=none;" parent="noMDyQk_eTensu_5yYvp-1" vertex="1">
@@ -435,7 +435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7iKuwGhI_XB_ejaw6C9u" name="1.1_Linux_Python">
-    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7kSWusJikNgaYiSeJsim-0" />
         <mxCell id="7kSWusJikNgaYiSeJsim-1" parent="7kSWusJikNgaYiSeJsim-0" />
@@ -569,37 +569,37 @@
             <mxPoint x="360" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-30" value="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-30" value="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-31" value="2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-31" value="2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-32" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-32" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-33" value="4" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-33" value="4" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Linux + Python&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Linux + Python&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-38" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Work with VS code and Terminal&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run python scripts&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-38" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Work with VS code and Terminal&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run python scripts&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-39" value="Get signed in to your VM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-39" value="Get signed in to your VM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="140" y="760" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-40" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Open Google Remote Desktop in your browser&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;TODO&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-40" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Open Google Remote Desktop in your browser&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;TODO&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="500" y="760" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UeSPv5KlDwazfsDjhE0S-41" value="&lt;div style=&quot;font-size: 36px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;1.1&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="20" y="640" width="780" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-42" value="&lt;p style=&quot;line-height: 0.5&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#FFFFFF&quot;&gt;Introduction to our learning environment and run some python scripts&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#FFFFFF;fillColor=#66B2FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-42" value="&lt;p style=&quot;line-height: 0.5&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#FFFFFF&quot;&gt;Introduction to our learning environment and run some python scripts&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontColor=#ffffff;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UeSPv5KlDwazfsDjhE0S-43" value="&lt;div align=&quot;center&quot;&gt;Description&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
@@ -608,29 +608,29 @@
         <mxCell id="UeSPv5KlDwazfsDjhE0S-44" value="Tasks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="500" y="680" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-45" value="Check your instalations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-45" value="Check your instalations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="140" y="820" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-46" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;Run Gazebo and VSCode&lt;/li&gt;&lt;li&gt;Run test1.py and tes2.py python scripts&lt;/li&gt;&lt;li&gt;Fix errors (Ask if you need a hint)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-46" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;Run Gazebo and VSCode&lt;/li&gt;&lt;li&gt;Run test1.py and tes2.py python scripts&lt;/li&gt;&lt;li&gt;Fix errors (Ask if you need a hint)&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="500" y="820" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-47" value="Get to know the environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-47" value="Get to know the environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="140" y="880" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-48" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Move VSCode to desktop 2&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Click the menu on the top left and see what programs are included in the VM&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-48" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Move VSCode to desktop 2&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Click the menu on the top left and see what programs are included in the VM&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="500" y="880" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-49" value="Open a Pointcloud" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-49" value="Open a Pointcloud" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="140" y="940" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UeSPv5KlDwazfsDjhE0S-50" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Open Cloudcompare&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Open &quot;wellington.las&quot; pointcloud file&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
+        <mxCell id="UeSPv5KlDwazfsDjhE0S-50" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Open Cloudcompare&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Open &quot;wellington.las&quot; pointcloud file&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="7kSWusJikNgaYiSeJsim-1" vertex="1">
           <mxGeometry x="500" y="940" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="L6UDC8fnb3Be1GtFYhDQ" name="1.2_ROS">
-    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-0" />
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-1" parent="J9mkaBKEq7xT8ixeh_O_-0" />
@@ -764,25 +764,25 @@
             <mxPoint x="360" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-32" value="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-32" value="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="20" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-33" value="2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-33" value="2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="20" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-34" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-34" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="20" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-35" value="4" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-35" value="4" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="20" y="960" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-36" value="ROS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-36" value="ROS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-39" value="Source ROS and start core" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-39" value="Source ROS and start core" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="140" y="760" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-40" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Open a terminal&lt;/li&gt;&lt;li&gt;Type &quot;rosgo&quot; to source ROS&lt;br&gt;&lt;/li&gt;&lt;li&gt;Type &quot;roscore&quot; to start the ROS Core&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-40" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Open a terminal&lt;/li&gt;&lt;li&gt;Type &quot;rosgo&quot; to source ROS&lt;br&gt;&lt;/li&gt;&lt;li&gt;Type &quot;roscore&quot; to start the ROS Core&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="760" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-41" value="&lt;div style=&quot;font-size: 36px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;1.2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
@@ -794,38 +794,38 @@
         <mxCell id="J9mkaBKEq7xT8ixeh_O_-44" value="Tasks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="680" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-45" value="RUN Talker and Listerner Nodes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-45" value="RUN Talker and Listerner Nodes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="140" y="820" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-47" value="&lt;div&gt;Interigate and manipulate the /chatter topic.&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Bonus: Try &quot;rosnode&quot; TAB TAB&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-47" value="&lt;div&gt;Interigate and manipulate the /chatter topic.&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Bonus: Try &quot;rosnode&quot; TAB TAB&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="140" y="880" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-48" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rosrun rospy_tutorials talker&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rosrun rospy_tutorials listener&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rosrun rqt_graph rqt_graph&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-48" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rosrun rospy_tutorials talker&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rosrun rospy_tutorials listener&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rosrun rqt_graph rqt_graph&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="820" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-49" value="Create Node that filters &quot;chatter&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-49" value="Create Node that filters &quot;chatter&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="140" y="960" width="360" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="J9mkaBKEq7xT8ixeh_O_-50" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Review &quot;message_publisher.py&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Review &quot;message_subscriber.py&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="J9mkaBKEq7xT8ixeh_O_-50" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Review &quot;message_publisher.py&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Review &quot;message_subscriber.py&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="960" width="300" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FPhliQQyami5PE9gNsOo-0" value="&lt;p style=&quot;line-height: 0.9&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Introduction to ROS. Demonstration of Concepts. Time to practice and familiarise yourself &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="FPhliQQyami5PE9gNsOo-0" value="&lt;p style=&quot;line-height: 0.9&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Introduction to ROS. Demonstration of Concepts. Time to practice and familiarise yourself &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FPhliQQyami5PE9gNsOo-1" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run ROS Demo Nodes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Edit a ROS Node&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="FPhliQQyami5PE9gNsOo-1" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Run ROS Demo Nodes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Edit a ROS Node&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FPhliQQyami5PE9gNsOo-2" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic &quot; TAB TAB. Try these options&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic echo /chatter&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic type /chatter&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic pub -r 1 /chatter std_msgs/String &quot;data: &#39;hello&#39;&quot; &quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="FPhliQQyami5PE9gNsOo-2" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic &quot; TAB TAB. Try these options&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic echo /chatter&quot;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic type /chatter&quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&quot;rostopic pub -r 1 /chatter std_msgs/String &quot;data: &#39;hello&#39;&quot; &quot;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="880" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FPhliQQyami5PE9gNsOo-3" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Create a node that:&lt;/font&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;subscribes to /chatter&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;removes all non-numerical characters&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;rounds time value down&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;publishes int to /chatter_filtered &lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;if:&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;the value has changed&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
+        <mxCell id="FPhliQQyami5PE9gNsOo-3" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Create a node that:&lt;/font&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;subscribes to /chatter&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;removes all non-numerical characters&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;rounds time value down&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;publishes int to /chatter_filtered &lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;if:&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;the value has changed&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;align=left;" parent="J9mkaBKEq7xT8ixeh_O_-1" vertex="1">
           <mxGeometry x="500" y="1010" width="300" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="9bVdkPfa6usCf1rkUAir" name="1.3_PointCloud_Files">
-    <mxGraphModel dx="1376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4YQgjiPVblWJCsrGzRVQ-0" />
         <mxCell id="4YQgjiPVblWJCsrGzRVQ-1" parent="4YQgjiPVblWJCsrGzRVQ-0" />
@@ -992,17 +992,8 @@
         <mxCell id="Je_H-Fq9UtKYgdRXmB1_-0" value="&lt;p style=&quot;line-height: 0.9&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Introduction to PointCloud Files. Open and view files. Convert between filetypes. PointClouds, Meshes, 3D. etc&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="140" y="700" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Je_H-Fq9UtKYgdRXmB1_-1" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;Quiz on Pointcloud Files&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Visualise files and scenes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Convert between filestypes&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
+        <mxCell id="Je_H-Fq9UtKYgdRXmB1_-1" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Visualise files and scenes&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
           <mxGeometry x="500" y="700" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtLr2exUeDOasbmNJmP-0" value="3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=24;fontColor=#FFFFFF;fillColor=#66B2FF;gradientColor=none;strokeColor=#FFFFFF;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
-          <mxGeometry x="20" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtLr2exUeDOasbmNJmP-1" value="Convert files between different types" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
-          <mxGeometry x="140" y="880" width="360" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ohtLr2exUeDOasbmNJmP-2" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;TODO&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#FFFFFF;fillColor=#A1D6FF;gradientColor=none;strokeColor=#FFFFFF;align=left;" parent="4YQgjiPVblWJCsrGzRVQ-1" vertex="1">
-          <mxGeometry x="500" y="880" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
