@@ -1,4 +1,5 @@
-run
+run these
+
     #start ros
     roscore
 
