@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T12:48:48.482Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="PZdflPRW0sYrUsBnTwC8" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T05:52:32.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="YIGCcO4PRfnaCmypjXFQ" version="17.3.0" type="github">
   <diagram id="FiLudgv4UGmtYQNG53DB" name="Page-1">
-    <mxGraphModel dx="1367" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,60 +83,60 @@
         <mxCell id="-mVsFdHJDbbOlhyKBQoK-4" value="SSH and install these" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="350" y="210" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4zGTrhQUskfJvnYJmJ0G-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="460" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-3" value="Set up ec2 linux virtual machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-1" value="Set up ec2 linux virtual machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-4" value="Create system from scratch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-2" value="Create system from scratch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="810" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-5" value="SSH in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-3" value="SSH in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="880" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-6" value="Install MATE Desktop environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-4" value="Install MATE Desktop environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="920" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-7" value="Set up Chrome Remote Desktop via SSH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-5" value="Set up Chrome Remote Desktop via SSH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1000" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-8" value="When RDP available -&amp;gt; sign in&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-6" value="When RDP available -&amp;gt; sign in&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1040" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-9" value="Install ROS, PCL, Etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-7" value="Install ROS, PCL, Etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1120" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-10" value="Select MATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-8" value="Select MATE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1080" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-11" value="Starting virtual machines" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-9" value="Starting virtual machines" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="930" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-12" value="Log into AWS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-10" value="Log into AWS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="960" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-13" value="Go to EC2 console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-11" value="Go to EC2 console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1000" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-14" value="select VMs&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-12" value="select VMs&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1040" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-15" value="Selectr start from dropdown" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-13" value="Selectr start from dropdown" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1080" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-16" value="Sign into intended users gmail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-14" value="Sign into intended users gmail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="960" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-17" value="Instance should be available to log in from chrome RDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-15" value="Instance should be available to log in from chrome RDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1120" width="280" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html" link="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html" id="4zGTrhQUskfJvnYJmJ0G-18">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="400" y="840" width="280" height="60" as="geometry" />
+        <UserObject label="&lt;div&gt;&lt;span&gt;https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html&lt;/span&gt;&lt;/div&gt;" link="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html" id="EjO4ajVDcVDsI4yAeyXi-16">
+          <mxCell style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="330" y="840" width="280" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="4zGTrhQUskfJvnYJmJ0G-19" value="Create system from scratch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EjO4ajVDcVDsI4yAeyXi-17" value="Create system from scratch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
