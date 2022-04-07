@@ -11,7 +11,7 @@ def messagePublisher():
 	rospy.init_node('messagePubNode', anonymous=True)    
 	
 	#publishes at a rate of 2 messages per second
-	rate = rospy.Rate(2)    
+	rate = rospy.Rate(20)    
 	
 	#Keep publishing the messages until the user interrupts 
 	while not rospy.is_shutdown():

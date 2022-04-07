@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/lidarCourse/4_Filtering_Manipulation_Pointclouds/PCL_ROS/catkin_ws/install
+
+Name: pcd_to_pointcloud
+Description: Description of pcd_to_pointcloud
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

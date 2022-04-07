@@ -1,3 +1,0 @@
-/home/am/code/lidarCourse/pcl/voxel_grid_tutorial/CMakeFiles/rebuild_cache.dir
-/home/am/code/lidarCourse/pcl/voxel_grid_tutorial/CMakeFiles/edit_cache.dir
-/home/am/code/lidarCourse/pcl/voxel_grid_tutorial/CMakeFiles/voxel_grid.dir
